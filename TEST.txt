@@ -1,1 +1,1 @@
-"Toto je obsah m‚ho textov‚ho souboru." 
+"Toto je demo text." 
